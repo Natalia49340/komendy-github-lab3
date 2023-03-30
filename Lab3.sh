@@ -1,3 +1,4 @@
+#!/bin/bash
 git commit
 git branch
 git checkout <nazwa-gałęzi>
